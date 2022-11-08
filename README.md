@@ -1,4 +1,4 @@
-# stripeBackEnd
+# Implementing Stripe Payment Gateway with ReactJS
 <h2>NPM Packages required for Backend</h2>
 <p>cors</p>
 <p>express</p>
@@ -8,5 +8,5 @@
 <p>nodemon</p>
 
 <h2>NPM Packages required for Frontend</h2>
-<p>Materialize Css</p>
+<p>Materialize Css - Optional</p>
 <p>react-stripe-checkout</p>
